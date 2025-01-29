@@ -1,0 +1,15 @@
+body {
+  background-image: url("https://tinyurl.com/4p3c57sd");
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.svg {
+  width: 20px;
+  height: 20px;
+}
+
+/* {
+    border: solid red 1px;
+} *//*# sourceMappingURL=bootstrap.css.map */
