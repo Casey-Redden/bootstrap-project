@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://tinyurl.com/4p3c57sd");
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.26), rgb(0, 0, 0)), url("https://tinyurl.com/4p3c57sd");
     background-position: center;
     background-size: cover;
     min-height: 100vh;
@@ -8,6 +8,19 @@ body {
 .svg {
     width: 20px;
     height: 20px;
+    filter: brightness(0) invert(1);
+}
+
+.custom-margin1 {
+    margin-bottom: 80px;
+}
+
+.custom-fs {
+    font-size: 100px;
+}
+
+.big-bracket {
+    color: blue;
 }
 
 /* {
