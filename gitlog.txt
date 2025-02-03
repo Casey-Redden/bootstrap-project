@@ -1,0 +1,17 @@
+commit 736c646a10dd376eda3dd9c7fa2eba81a67a5180
+Author: Casey_Redden <kctredden@gmail.com>
+Date:   Wed Jan 29 19:27:42 2025 -0700
+
+    finished the project using bootstrap and a little bit of custom css.
+
+commit 4d2930eaeace6081fbee96dd18f44869af20d1e0
+Author: Casey redden <caseyredden@Caseys-MacBook-Air.local>
+Date:   Wed Jan 29 10:37:36 2025 -0700
+
+    created the basic structure of the page and started doing some styling using bootstrap.
+
+commit ca8ffd0d4195834ae20241f99f2fac1ad9237457
+Author: Casey redden <caseyredden@Caseys-MacBook-Air.local>
+Date:   Wed Jan 29 08:08:59 2025 -0700
+
+    setting up files and directories in repo
